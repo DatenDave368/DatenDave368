@@ -21,6 +21,7 @@
 <div align="center">
 
 [![linkedin](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/david-alexander-scholl-316b25438/)
+&nbsp;&nbsp;&nbsp;
 [![discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discord.com/users/1550450445577621651)
 
 </div>
