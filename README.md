@@ -1,10 +1,10 @@
-<div data-importer="border">
+  <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=79&section=header&reversal=false&text=Welcome%20to%20my%20Github&fontSize=55&fontColor=xxxxx&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<h3 data-importer="text" align="center">As soon as I've finished my bootcamp, this will be moved to Codeberg. #FOSS</h3>
+<h3 p:first-letter="purple" data-importer="text" align="center">As soon as I've finished my bootcamp, this will be moved to Codeberg. #FOSS</h3>
 
 ###
 
