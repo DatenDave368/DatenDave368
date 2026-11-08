@@ -4,7 +4,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">As soon as I've finished my Bootcamp, this will be moved to Codeberg. #FOSS</h3>
+<h3 data-importer="text" align="center">As soon as I've finished my bootcamp, this will be moved to Codeberg. #FOSS</h3>
 
 ###
 
